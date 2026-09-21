@@ -1,4 +1,4 @@
-# 👋 hey — I'm Randomhacker26
+# hey I'm Randomhacker26
 
 Independent security researcher.
 
